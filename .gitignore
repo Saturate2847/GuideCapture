@@ -1,0 +1,10 @@
+# Local captures and exports should not be committed.
+*.guide
+!Example.guide
+*.docx
+*.tmp
+*.log
+work/
+test-output/
+.vs/
+
